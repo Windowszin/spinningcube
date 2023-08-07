@@ -2,4 +2,4 @@
 Inspired by https://chihuahuaspin.com/, but open-source!
 Check the license.md for more details! :)
 
-Check the gif info in <pre>/gifinfo.txt</pre> file!
+Check the more gif info in <pre>/gifinfo.txt</pre>
