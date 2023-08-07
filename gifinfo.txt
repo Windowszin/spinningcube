@@ -1,0 +1,20 @@
+﻿GIF Information
+---------------
+GIF size: 1,594,897 bytes (1.52mb)
+GIF length: 2.1 second(s)
+GIF width/height: 498×498 pixels
+number of frames: 21
+number of colors: 256
+loop count: 0 (endless)
+
+Frame #1:
+---------
+x: 0
+y: 0
+width: 498
+height: 498
+delay: 100ms
+disposal: 0
+transparent: false
+transparency index: 255 (not used)
+transparency color: no (not used)
